@@ -6,7 +6,7 @@ Updated Jan 21, 2018
 The primary goal of this file is to demonstrate a simple python program to classify triangles
 
 @author: Hennessy
-@author: rk
+
 """
 
 def classifyTriangle(a,b,c):
