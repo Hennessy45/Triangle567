@@ -59,5 +59,4 @@ def classify_triangle(a, b, c):
     if (a != b) and  (b != c) and (a != c):
         return 'Scalene'
 
-
     return 'Isoceles'
