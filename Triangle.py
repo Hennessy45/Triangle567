@@ -60,3 +60,4 @@ def classify_triangle(a, b, c):
         return 'Scalene'
 
     return 'Isoceles'
+
